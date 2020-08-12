@@ -1,0 +1,26 @@
+@media only screen and (max-width:1024px){
+    .raw{
+        margin: 0 15px;
+    }
+    .menn-nav{
+        display: none;
+    }
+    .html{
+        font-size:  57.5%;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .contact form{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+}
